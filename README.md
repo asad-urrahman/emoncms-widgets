@@ -5,7 +5,7 @@ Emoncms is an open-source web application for processing, logging and visualisin
 Inside [emoncms respository](http://www.github.com/emoncms) Dashboard module provide drag and drop support for widgets and graphs etc, **this respository provides more customized and elegant widgets which can be integrated easily.**
 
 
-# Getting Started with Slate
+# Getting Started
 # Prerequisites
   You're going to need already Installed and configured:
   
