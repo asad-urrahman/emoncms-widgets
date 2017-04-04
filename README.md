@@ -13,8 +13,15 @@ Inside [emoncms respository](http://www.github.com/emoncms) Dashboard module pro
   - **dashboard modules** , for details how to install and configure? see this [repository](http://www.github.com/emoncms/dashboard)
 
 # Install
-Make directory anywhere on your local PC .
+clone this repository inside emoncms > dashboard > widget
 ```
-$ cd PATH_TO_YOUR_DIRECTORY
+$ cd /var/www/emoncms/Modules/dashboard/widget
 $ git clone https://github.com/asad-urrahman/emoncms-widgets
 ```
+now **Refresh** emoncms webpage and open dashboard, you will notice some new widgets
+
+# Acknowledgments
+
+Hat tip to anyone who's code was used
+Inspiration
+etc
