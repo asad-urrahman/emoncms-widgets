@@ -9,8 +9,8 @@ Inside [emoncms respository](http://www.github.com/emoncms) Dashboard module pro
 # Prerequisites
   You're going to need already Installed and configured:
   
-  - **emoncms** , for details how to install and configure? see [repository](http://www.github.com/emoncms)
-  - **dashboard modules** , for details how to install and configure? see [repository](http://www.github.com/emoncms/dashboard)
+  - **emoncms** , for details how to install and configure? see this [repository](http://www.github.com/emoncms)
+  - **dashboard modules** , for details how to install and configure? see this [repository](http://www.github.com/emoncms/dashboard)
 
 # Install
 Make directory anywhere on your local PC .
