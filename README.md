@@ -15,6 +15,6 @@ Inside [emoncms respository](www.github.com/emoncms) Dashboard module provide dr
 # Install
 Make directory anywhere on your local PC .
 ```
-cd PATH_TO_YOUR_DIRECTORY
+$ cd PATH_TO_YOUR_DIRECTORY
 $ git clone https://github.com/asad-urrahman/emoncms-widgets
 ```
