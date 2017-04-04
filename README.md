@@ -22,6 +22,4 @@ now **Refresh** emoncms webpage and open dashboard, you will notice some new wid
 
 # Acknowledgments
 
-- [SteelSeries Canvas](https://github.com/HanSolo/SteelSeries-Canvas)
-Inspiration
-etc
+- [SteelSeries Canvas](https://github.com/HanSolo/SteelSeries-Canvas) for base libraries
