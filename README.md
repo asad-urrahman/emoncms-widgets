@@ -9,11 +9,12 @@ Inside [emoncms respository](www.github.com/emoncms) Dashboard module provide dr
 # Prerequisites
   You're going to need already Installed and configured:
   
-  - **emoncms**
-  - **dashboard modules**
+  - **emoncms** , for details how to install and configure? see [repository](www.github.com/emoncms)
+  - **dashboard modules** , for details how to install and configure? see [repository](www.github.com/emoncms/dashboard)
 
 # Install
-
+Make directory anywhere on your local PC .
 ```
-$ git clone https://github.com/emoncms/dashboard
+cd PATH_TO_YOUR_DIRECTORY
+$ git clone https://github.com/asad-urrahman/emoncms-widgets
 ```
