@@ -21,6 +21,7 @@ $ git clone https://github.com/asad-urrahman/emoncms-widgets
 now **Refresh** emoncms webpage and open dashboard, you will notice some new widgets
 
 # Demo
+<img src="/images/SteelSeries_testRadial2.png" width="256">
 ## SteelSeries
 
 # Acknowledgments
