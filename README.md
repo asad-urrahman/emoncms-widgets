@@ -23,6 +23,7 @@ now **Refresh** emoncms webpage and open dashboard, you will notice some new wid
 # Demo
 ## SteelSeries
 ![](/images/SteelSeries_testRadial2.png =100x)
+<img src="/images/SteelSeries_testRadial2.png" width="128">
 # Acknowledgments
 
 - [SteelSeries Canvas](https://github.com/HanSolo/SteelSeries-Canvas) for base libraries
