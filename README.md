@@ -22,7 +22,6 @@ now **Refresh** emoncms webpage and open dashboard, you will notice some new wid
 
 # Demo
 ## SteelSeries
-![Alt text](/images/SteelSeries_testRadial2.png?raw=true "Optional Title" width="128")
 ![](./images/SteelSeries_testRadial2.png =100x20)
 # Acknowledgments
 
