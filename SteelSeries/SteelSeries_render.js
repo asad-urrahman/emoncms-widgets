@@ -69,12 +69,13 @@ function draw_SteelSeries(id,x,y,width,height,value,scale,max,min,units)
 		// Create a second radial gauge
            	 SteelSeriesRadial = new steelseries.Radial(
                             id, {
+			    size :500,
                             gaugeType: steelseries.GaugeType.TYPE2,
                             minValue: 200,
                             maxValue: 260,
                             threshold: 240,
-                            titleString: 'Test',
-                            unitString: 'Unit',
+                            titleString: 'Voltage',
+                            unitString: 'V',
                             frameDesign: steelseries.FrameDesign.BLACK_METAL,
                             backgroundColor: steelseries.BackgroundColor.PUNCHED_SHEET,
                             pointerType: steelseries.PointerType.TYPE7,
