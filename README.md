@@ -20,6 +20,9 @@ $ git clone https://github.com/asad-urrahman/emoncms-widgets
 ```
 now **Refresh** emoncms webpage and open dashboard, you will notice some new widgets
 
+# Demo
+## SteelSeries
+
 # Acknowledgments
 
 - [SteelSeries Canvas](https://github.com/HanSolo/SteelSeries-Canvas) for base libraries
